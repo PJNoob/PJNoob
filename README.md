@@ -84,33 +84,6 @@ Not just a tech person, but a **curious mind** who believes the best ideas come 
 
 ---
 
-## 🚀 Projects I'm Proud Of
-
-<div align="center">
-
-### 🤖 AI Engineering from Scratch
-*"Learn it. Build it. Ship it for others."*
-Diving deep into machine learning, one line at a time.
-[Explore →](https://github.com/PJNoob/ai-engineering-from-scratch)
-
-### 📚 30 Days of Python
-A journey through Python fundamentals.
-Your gateway to becoming a Python wizard! 🐍
-[Explore →](https://github.com/PJNoob/30-Days-Of-Python)
-
-### 🏥 MediLink Pro
-Healthcare meets tech innovation.
-Building systems that actually help people.
-[Explore →](https://github.com/PJNoob/MediLink-Pro-My-Version-)
-
-### 🔧 System Design Primer
-Understanding the big picture of how things work at scale.
-[Explore →](https://github.com/PJNoob/system-design-primer)
-
-</div>
-
----
-
 ## 🎪 Random Fun Facts About Me
 
 ```
@@ -163,14 +136,16 @@ I believe in:
 <div align="center">
 
 **I'm into:**
+
 - 💬 Deep conversations about ideas
 - 🤝 Collaborating on cool projects
 - 📚 Sharing what I learn
 - 🎯 Working on things that matter
 - ✨ Creating something rad together
 
-**Got an idea? A question? A wild project?**  
-👉 Let's talk! I'm always up for a chat.
+**Got an idea? A question? A wild project?**
+
+👉 **Let's talk! I'm always up for a chat.**
 
 </div>
 
