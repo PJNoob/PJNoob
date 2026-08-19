@@ -28,18 +28,6 @@ Not just a tech person, but a **curious mind** who believes the best ideas come 
 
 ---
 
-### 🌈 Breaking Down the Name
-
-<div align="center">
-
-| ![P](https://img.shields.io/badge/P-Pixel_by_Pixel-FF6B9D?style=for-the-badge&labelColor=1a1a2e) | ![J](https://img.shields.io/badge/J-Just_Keep_Going-FFD700?style=for-the-badge&labelColor=1a1a2e) | ![NOOB](https://img.shields.io/badge/NOOB-Forever_a_Student-00D4FF?style=for-the-badge&labelColor=1a1a2e) |
-|:---:|:---:|:---:|
-| Building greatness in small pieces — one line of code, one idea, one breakthrough. | Never stopping, never settling. Motion is momentum, momentum is growth. | A badge of honor, not shame. Staying curious, humble, and always hungry to learn. |
-
-</div>
-
----
-
 ## 🎯 What Gets Me Excited
 
 <div align="center">
@@ -164,8 +152,10 @@ I believe in:
 <summary><b>🎮 Wisdom Corner — click to expand</b></summary>
 <br/>
 
-> *"The beautiful thing about learning is that no one can take it away from you."* — B.B. King
-> *"I think the key to having a good life is not overthinking it."* — Elon Musk
+> *"The beautiful thing about learning is that no one can take it away from you."* — B.B. King,
+
+> *"I think the key to having a good life is not overthinking it."* — Elon Musk,
+
 > *"The future belongs to those who believe in the beauty of their dreams."* — Eleanor Roosevelt
 
 </details>
