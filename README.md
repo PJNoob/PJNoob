@@ -82,7 +82,7 @@ Not just a tech person, but a **curious mind** who believes the best ideas come 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PJNoob&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=FF6B9D&icon_color=00D4FF&text_color=e0e0e0&count_private=true" width="49%" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PJNoob&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=FF6B9D&icon_color=00D4FF&text_color=e0e0e0" width="49%" alt="GitHub stats"/>
 <img src="https://streak-stats.demolab.com?user=PJNoob&hide_border=true&background=1a1a2e&ring=FF6B9D&fire=FFD700&currStreakLabel=00D4FF&sideLabels=e0e0e0&dates=e0e0e0&currStreakNum=e0e0e0&sideNums=e0e0e0" width="49%" alt="GitHub streak"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PJNoob&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=FF6B9D&text_color=e0e0e0&langs_count=8" width="49%" alt="Top languages"/>
@@ -178,15 +178,6 @@ I believe in:
 
 **Got an idea? A question? A wild project?** 👉 Let's talk — I'm always up for a chat.
 
-<br/>
-
-<a href="https://linkedin.com/in/[your-linkedin]"><img src="https://img.shields.io/badge/LinkedIn-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:[your-email]@example.com"><img src="https://img.shields.io/badge/Email-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://instagram.com/[your-instagram]"><img src="https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/></a>
-<a href="https://twitter.com/[your-handle]"><img src="https://img.shields.io/badge/Twitter-FF9E64?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/></a>
-
-<sub>⚠️ Placeholders above — swap the <code>[bracketed]</code> parts for your real handles.</sub>
-
 </div>
 
 ---
@@ -198,9 +189,7 @@ I believe in:
 <br/>
 
 > *"The beautiful thing about learning is that no one can take it away from you."* — B.B. King
-
 > *"I think the key to having a good life is not overthinking it."* — Elon Musk
-
 > *"The future belongs to those who believe in the beauty of their dreams."* — Eleanor Roosevelt
 
 </details>
@@ -223,12 +212,13 @@ I believe in:
 
   2. The snake animation needs a one-time setup: keep
      .github/workflows/snake.yml in this repo, go to the Actions tab and
-     enable workflows, then run "generate animation" once manually
+     enable workflows, then run "generate snake animation" once manually
      (or push to main). It creates an "output" branch with the SVGs the
      <picture> tag above already points to.
 
-  3. Swap every [bracketed] placeholder in the "Let's Connect" section for
-     your real links, or delete the ones you don't use.
+  3. The "Let's Connect" section has no social badges yet — add LinkedIn,
+     email, Instagram, Twitter/X, or whatever links you want people to find
+     you at, once you're ready to share them.
 
   4. Pin cards under "Projects I'm Proud Of" pull live star/fork/language
      data from those four repos — make sure they're public.
