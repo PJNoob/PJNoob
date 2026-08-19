@@ -152,9 +152,9 @@ I believe in:
 <summary><b>🎮 Wisdom Corner — click to expand</b></summary>
 <br/>
 
-> *"The beautiful thing about learning is that no one can take it away from you."* — B.B. King,
+> *"The beautiful thing about learning is that no one can take it away from you."* — B.B. King
 
-> *"I think the key to having a good life is not overthinking it."* — Elon Musk,
+> *"I think the key to having a good life is not overthinking it."* — Elon Musk
 
 > *"The future belongs to those who believe in the beauty of their dreams."* — Eleanor Roosevelt
 
