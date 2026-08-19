@@ -1,0 +1,12 @@
+{
+  "name": "pjnoob-profile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tests validating the GitHub profile README and its supporting workflow.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}
