@@ -1,180 +1,204 @@
-# 🚀 Hey there, I'm PJNoob! 
+```
+ ___    _   __   ____  ___  ____  __  
+| _ \  | | / /  / __ \/ _ \/ __ )/ /__
+| |_) | |   /   / /_/ / /_/ (_ >/  __/
+|  __/  | |\ \  / _, _/\__, /\__ \/ /__ 
+|_|     |_| \_\/_/ |_|/____/____/\___/  🚀
+```
 
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Enthusiastic+Software+Engineer+🧑%E2%80%8D💻;Always+Exploring+New+Things+🔍;Building+Cool+Stuff+With+Code+⚡;Let's+Create+Something+Amazing+✨)](https://git.io/typing-svg)
+
+# 👋 Hey! I'm PJNoob
+
+### 🌍 *Curious Explorer | Lifelong Learner | Code Tinkerer | Idea Enthusiast*
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=Exploring+the+infinite;Learning+something+new+daily;Building+weird+and+wonderful+things;Forever+curious+%F0%9F%94%AD)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🎨 About Me
 
-I'm a **passionate software engineer** who genuinely loves exploring new technologies and pushing creative boundaries. With a diverse tech stack and an insatiable curiosity, I build solutions that are not just functional but fascinating. Whether it's AI/ML, web development, or system design, I'm always diving into the next challenge!
+I'm someone who gets genuinely **excited about learning**. Whether it's code, design, psychology, space facts, or how to make the perfect cup of coffee ☕ — I'm here for it all! I love creating things, breaking things, fixing things, and asking *"but what if...?"* way too often.
+
+Not just a tech person, but a **curious mind** who believes the best ideas come from connecting dots across different worlds.
 
 <div align="center">
-  
-  <img src="https://media.giphy.com/media/SWoRKslHVtqgMwv0aJ/giphy.gif" width="200" alt="Developer Vibes">
-  
+  <img src="https://media.giphy.com/media/xT9IgEx8SbQ0teblWc/giphy.gif" width="280" alt="Curious Explorer">
 </div>
 
 ---
 
-## 🛠️ My Tech Arsenal
+## 🎯 What Gets Me Excited
 
 <div align="center">
 
-**Languages & Frameworks**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-
-**Specializations**
-
-![AI/ML](https://img.shields.io/badge/AI%2FML-FF6B6B?style=for-the-badge)
-![Web Development](https://img.shields.io/badge/Web%20Dev-4ECDC4?style=for-the-badge)
-![Backend Systems](https://img.shields.io/badge/Backend-95E1D3?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data%20Science-FF8C00?style=for-the-badge)
+| 💻 Building | 📚 Learning | 🎨 Creating | 🔬 Experimenting |
+|---|---|---|---|
+| Apps & Projects | New Skills | Visual Designs | Novel Ideas |
+| Systems | Languages | Experiences | Solutions |
+| Connections | Concepts | Stories | Possibilities |
 
 </div>
 
 ---
 
-## 🎯 Featured Projects
+## 🛠️ My Playground
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%">
-      <h3>🤖 AI Engineering from Scratch</h3>
-      <p><em>"Learn it. Build it. Ship it for others."</em></p>
-      <p>Mastering AI/ML concepts from the ground up</p>
-      <a href="https://github.com/PJNoob/ai-engineering-from-scratch">
-        <img src="https://img.shields.io/badge/Explore-FF00FF?style=flat-square&logo=github" alt="Explore">
-      </a>
-    </td>
-    <td width="50%">
-      <h3>📚 30 Days of Python</h3>
-      <p>A comprehensive step-by-step Python learning journey</p>
-      <p>Perfect for aspiring Pythonistas! 🐍</p>
-      <a href="https://github.com/PJNoob/30-Days-Of-Python">
-        <img src="https://img.shields.io/badge/Explore-00FF00?style=flat-square&logo=github" alt="Explore">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🏥 MediLink Pro</h3>
-      <p>Healthcare innovation with ElectronJS & MongoDB</p>
-      <p>Patient data management system 💉</p>
-      <a href="https://github.com/PJNoob/MediLink-Pro-My-Version-">
-        <img src="https://img.shields.io/badge/Explore-00FFFF?style=flat-square&logo=github" alt="Explore">
-      </a>
-    </td>
-    <td width="50%">
-      <h3>🔧 System Design Primer</h3>
-      <p>Master large-scale system architecture</p>
-      <p>Ace your system design interviews! 📐</p>
-      <a href="https://github.com/PJNoob/system-design-primer">
-        <img src="https://img.shields.io/badge/Explore-FFFF00?style=flat-square&logo=github" alt="Explore">
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### Languages I Play With
+![Python](https://img.shields.io/badge/Python-FF6B9D?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-00D4FF?style=for-the-badge&logo=java&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-FF9E64?style=for-the-badge&logo=html5&logoColor=white)
+
+### Areas I'm Obsessed With
+![AI/ML](https://img.shields.io/badge/🤖_AI/ML-FF00FF?style=for-the-badge)
+![Web Magic](https://img.shields.io/badge/✨_Web_Dev-00FF88?style=for-the-badge)
+![Data Stories](https://img.shields.io/badge/📊_Data-FF6B9D?style=for-the-badge)
+![System Design](https://img.shields.io/badge/⚙️_Systems-00D4FF?style=for-the-badge)
+
+</div>
 
 ---
 
-## 🌟 Why I'm Awesome
+## 🚀 Projects I'm Proud Of
 
-```python
-class PJNoob:
-    def __init__(self):
-        self.passion = "Software Engineering 💯"
-        self.curiosity = "Infinite 🔭"
-        self.learning_speed = "Warp Speed ⚡"
-        self.creativity = "Off the Charts 🎨"
-        self.collaboration = "Team Player 🤝"
-    
-    def what_i_do(self):
-        return [
-            "🚀 Build innovative solutions",
-            "📖 Learn cutting-edge technologies",
-            "🔧 Solve complex problems",
-            "💡 Create elegant code",
-            "🌍 Make an impact"
-        ]
-    
-    def currently_exploring(self):
-        return {
-            "AI_ML": "State-of-the-art models",
-            "Web3": "Blockchain & Smart Contracts",
-            "Cloud": "Scalable architectures",
-            "Data": "Big data analytics"
-        }
+<div align="center">
+
+### 🤖 AI Engineering from Scratch
+*"Learn it. Build it. Ship it for others."*
+Diving deep into machine learning, one line at a time.
+[Explore →](https://github.com/PJNoob/ai-engineering-from-scratch)
+
+### 📚 30 Days of Python
+A journey through Python fundamentals.
+Your gateway to becoming a Python wizard! 🐍
+[Explore →](https://github.com/PJNoob/30-Days-Of-Python)
+
+### 🏥 MediLink Pro
+Healthcare meets tech innovation.
+Building systems that actually help people.
+[Explore →](https://github.com/PJNoob/MediLink-Pro-My-Version-)
+
+### 🔧 System Design Primer
+Understanding the big picture of how things work at scale.
+[Explore →](https://github.com/PJNoob/system-design-primer)
+
+</div>
+
+---
+
+## 🎪 Random Fun Facts About Me
+
+```
+┌─────────────────────────────────────────┐
+│  🧠 How I Learn                         │
+│  └─ Fast, curious, ask a million Qs    │
+│                                         │
+│  🎯 What I Love                         │
+│  └─ Solving puzzles, any kind          │
+│                                         │
+│  🔍 My Superpower                       │
+│  └─ Connecting unrelated ideas         │
+│                                         │
+│  ⚡ Energy Level                        │
+│  └─ Permanently at 11/10 when excited  │
+│                                         │
+│  🌈 My Vibe                             │
+│  └─ Casual, weird, wonderfully curious │
+└─────────────────────────────────────────┘
 ```
 
 ---
 
-## 📊 GitHub Stats
+## 💡 Currently Exploring
+
+- 🤖 **AI/Machine Learning** - How machines think
+- 🌐 **Web Technologies** - Building for the internet
+- 📊 **Data** - Finding stories in numbers
+- 🔐 **Blockchain & Web3** - The future of internet?
+- 🧪 **New Tools & Frameworks** - Whatever's cool
+- 🎓 **Everything Else** - Life's too short to stay in one lane
+
+---
+
+## 📊 My GitHub Vibe
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PJNoob&theme=radical&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PJNoob&theme=tokyonight&show_icons=true&hide_border=true&line_height=27)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PJNoob&theme=radical&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PJNoob&theme=tokyonight&layout=compact&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PJNoob&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🎪 Fun Facts
+## 🎭 My Philosophy
 
-- 🔍 **Explorer Mode**: Always on the hunt for new technologies and frameworks
-- 🧠 **Fast Learner**: Can pick up new concepts at lightning speed
-- 🎯 **Goal-Oriented**: Turn ideas into reality with precision
-- 🌈 **Creative Coder**: Writing code is like composing music 🎵
-- 🚀 **Never Settle**: Constantly pushing beyond limits
+> **"The world is more interesting when you're curious about everything"**
+
+I believe in:
+- 🚀 Shipping things (even imperfect ones)
+- 📖 Continuous learning (always be a student)
+- 🤝 Building together (no journey alone)
+- 🎨 Creating with joy (work should be fun)
+- 🌱 Growing constantly (today > yesterday)
 
 ---
 
-## 💬 Let's Connect & Collaborate!
+## 🌟 Let's Connect!
 
 <div align="center">
 
-**I'm excited to:**
-- 🤝 Collaborate on innovative projects
-- 📚 Share knowledge and learn from others
-- 🔗 Build meaningful connections
-- 🎯 Work on challenges that matter
-- ✨ Create the future of tech
+**I'm into:**
+- 💬 Deep conversations about ideas
+- 🤝 Collaborating on cool projects
+- 📚 Sharing what I learn
+- 🎯 Working on things that matter
+- ✨ Creating something rad together
+
+**Got an idea? A question? A wild project?**  
+👉 Let's talk! I'm always up for a chat.
 
 </div>
 
 ---
 
-## 🎮 Random Dev Wisdom
+## 🎮 Wisdom Corner
 
-> *"The best way to predict the future is to invent it."* - Alan Kay
+> *"The beautiful thing about learning is that no one can take it away from you."* — B.B. King
 
-> *"Code is poetry written for machines to execute and humans to understand."*
+> *"I think the key to having a good life is not overthinking it."* — Elon Musk
+
+> *"The future belongs to those who believe in the beauty of their dreams."* — Eleanor Roosevelt
 
 ---
 
 <div align="center">
 
-### ⭐ If you like what you see, show some love by starring my repos! ⭐
+### ⭐ If you vibe with what you see, hit that star! ⭐
 
-**Let's build something extraordinary together!** 🚀✨
+```
+🌟 Thanks for stopping by! 🌟
+Have an awesome day and keep learning! 
+```
 
----
+<img src="https://media.giphy.com/media/26u6EwBTQq1j5LSI0/giphy.gif" width="200" alt="Cool vibes">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150" alt="Peace Out">
-
-**Happy Coding!** 💻🎉
+**Made with ❤️ and curiosity** | *Always exploring, always growing* 🌱
 
 </div>
 
 ---
 
-*Last updated: 2026* | *Always learning, always growing* 🌱
+<div align="center">
+  
+*Last Updated: Aug 2026* | *Current Mood: Excited about learning*
+
+</div>
