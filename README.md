@@ -82,8 +82,7 @@ Not just a tech person, but a **curious mind** who believes the best ideas come 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=PJNoob&hide_border=true&background=1a1a2e&ring=FF6B9D&fire=FFD700&currStreakLabel=00D4FF&sideLabels=e0e0e0&dates=e0e0e0&currStreakNum=e0e0e0&sideNums=e0e0e0" width="49%" alt="GitHub streak"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PJNoob&hide_border=true&bg_color=1a1a2e&color=FF6B9D&line=00D4FF&point=FFD700&area=true&area_color=FF6B9D" width="49%" alt="Activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PJNoob&hide_border=true&bg_color=1a1a2e&color=FF6B9D&line=00D4FF&point=FFD700&area=true&area_color=FF6B9D" width="80%" alt="Activity graph"/>
 
 </div>
 
@@ -184,14 +183,18 @@ I believe in:
 <!--
   Setup notes (delete this comment once you're done):
 
-  1. Streak stats / activity graph work immediately — they just read your
-     public GitHub username, nothing to configure. The GitHub stats card,
+  1. The activity graph works immediately — it just reads your public
+     GitHub username, nothing to configure. The GitHub stats card,
      top-languages card, and trophy card were removed because the shared
      public demo deployments behind github-readme-stats.vercel.app and
      github-profile-trophy.vercel.app are currently paused/disabled
-     upstream (not something wrong on your end). Re-add them once those
-     services are back, or self-host your own instance for a permanent
-     fix: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+     upstream (not something wrong on your end). The streak stats widget
+     was also removed — its shared demo (streak-stats.demolab.com) is
+     technically up but responds inconsistently slowly (observed 0.8s to
+     19s), which is often too slow for GitHub's image proxy to load in
+     time. Re-add any of these once the services are reliable again, or
+     self-host your own instance for a permanent fix:
+     https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
 
   2. The snake animation needs a one-time setup: keep
      .github/workflows/snake.yml in this repo, go to the Actions tab and
