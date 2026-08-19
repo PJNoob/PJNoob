@@ -129,11 +129,20 @@ Understanding the big picture of how things work at scale.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PJNoob&theme=tokyonight&show_icons=true&hide_border=true&line_height=27)
+### 📈 GitHub Stats
+<a href="https://github.com/PJNoob">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PJNoob&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="PJNoob's Stats"/>
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PJNoob&theme=tokyonight&layout=compact&hide_border=true)
+### 💻 Top Languages
+<a href="https://github.com/PJNoob">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PJNoob&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
+</a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PJNoob&theme=tokyonight&hide_border=true)
+### 🔥 GitHub Streak
+<a href="https://github.com/PJNoob">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PJNoob&theme=tokyonight" alt="GitHub Streak"/>
+</a>
 
 </div>
 
