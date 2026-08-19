@@ -10,9 +10,11 @@
 
 ---
 
-## 🎨 About Me
+## ✨ Who is PJNoob?
 
-I'm someone who gets genuinely **excited about learning**. Whether it's code, design, psychology, space facts, or how to make the perfect cup of coffee ☕ — I'm here for it all! I love creating things, breaking things, fixing things, and asking *"but what if...?"* way too often.
+### *A curious mind, always exploring*
+
+**I'm someone who gets genuinely excited about learning.** Whether it's code, design, psychology, space facts, or how to make the perfect cup of coffee ☕ — I'm here for it all! I love creating things, breaking things, fixing things, and asking *"but what if...?"* way too often.
 
 Not just a tech person, but a **curious mind** who believes the best ideas come from connecting dots across different worlds.
 
@@ -22,33 +24,29 @@ Not just a tech person, but a **curious mind** who believes the best ideas come 
 
 ---
 
-## ✨ Why "PJNoob"?
-
-<div align="center">
-
-### *One step at a time, always moving forward*
+### 🌈 Breaking Down the Name
 
 ```
-╔══════════════════════════════════════════════╗
-║                                              ║
-║    🖼️  P I X E L  B Y  P I X E L           ║
-║                                              ║
-║         Building greatness in small pieces   ║
-║         One line of code, one idea,         ║
-║              one breakthrough at a time     ║
-║                                              ║
-║    🚀  J U S T  K E E P  G O I N G         ║
-║                                              ║
-║         Never stopping, never settling      ║
-║         Motion is momentum,                  ║
-║              momentum is growth             ║
-║                                              ║
-╚══════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║  🖼️  P I X E L  B Y  P I X E L                          ║
+║                                                           ║
+║     Building greatness in small pieces                    ║
+║     One line of code, one idea, one breakthrough         ║
+║                                                           ║
+║  🚀  J U S T  K E E P  G O I N G                        ║
+║                                                           ║
+║     Never stopping, never settling                        ║
+║     Motion is momentum, momentum is growth               ║
+║                                                           ║
+║  🎓  N O O B  =  F O R E V E R  A  S T U D E N T       ║
+║                                                           ║
+║     A badge of honor, not shame                           ║
+║     Being a noob means staying curious,                  ║
+║     humble, and always hungry to learn                   ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
 ```
-
-**The vibe:** Progress over perfection. Every keystroke counts. Every small experiment leads somewhere. I'm not here to be the best on day one—I'm here to be better than yesterday, always.
-
-</div>
 
 ---
 
