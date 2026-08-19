@@ -82,13 +82,8 @@ Not just a tech person, but a **curious mind** who believes the best ideas come 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PJNoob&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=FF6B9D&icon_color=00D4FF&text_color=e0e0e0" width="49%" alt="GitHub stats"/>
 <img src="https://streak-stats.demolab.com?user=PJNoob&hide_border=true&background=1a1a2e&ring=FF6B9D&fire=FFD700&currStreakLabel=00D4FF&sideLabels=e0e0e0&dates=e0e0e0&currStreakNum=e0e0e0&sideNums=e0e0e0" width="49%" alt="GitHub streak"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PJNoob&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=FF6B9D&text_color=e0e0e0&langs_count=8" width="49%" alt="Top languages"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PJNoob&hide_border=true&bg_color=1a1a2e&color=FF6B9D&line=00D4FF&point=FFD700&area=true&area_color=FF6B9D" width="49%" alt="Activity graph"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=PJNoob&theme=radical&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies"/>
 
 </div>
 
@@ -103,24 +98,6 @@ Not just a tech person, but a **curious mind** who believes the best ideas come 
 <sub>👆 A snake, eating my contribution graph. Set up automatically by <code>.github/workflows/snake.yml</code> — see the note at the bottom.</sub>
 
 </div>
-
----
-
-## 🚀 Projects I'm Proud Of
-
-<div align="center">
-
-<a href="https://github.com/PJNoob/ai-engineering-from-scratch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PJNoob&repo=ai-engineering-from-scratch&hide_border=true&bg_color=1a1a2e&title_color=FF6B9D&icon_color=00D4FF&text_color=e0e0e0" width="48%" alt="AI Engineering from Scratch"/></a>
-<a href="https://github.com/PJNoob/30-Days-Of-Python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PJNoob&repo=30-Days-Of-Python&hide_border=true&bg_color=1a1a2e&title_color=FFD700&icon_color=00D4FF&text_color=e0e0e0" width="48%" alt="30 Days of Python"/></a>
-<a href="https://github.com/PJNoob/MediLink-Pro-My-Version-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PJNoob&repo=MediLink-Pro-My-Version-&hide_border=true&bg_color=1a1a2e&title_color=00D4FF&icon_color=FF6B9D&text_color=e0e0e0" width="48%" alt="MediLink Pro"/></a>
-<a href="https://github.com/PJNoob/system-design-primer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PJNoob&repo=system-design-primer&hide_border=true&bg_color=1a1a2e&title_color=FF9E64&icon_color=00D4FF&text_color=e0e0e0" width="48%" alt="System Design Primer"/></a>
-
-</div>
-
-- 🤖 **AI Engineering from Scratch** — *"Learn it. Build it. Ship it for others."* Diving deep into machine learning, one line at a time.
-- 📚 **30 Days of Python** — A journey through Python fundamentals. Your gateway to becoming a Python wizard 🐍
-- 🏥 **MediLink Pro** — Healthcare meets tech innovation. Building systems that actually help people.
-- 🔧 **System Design Primer** — Understanding the big picture of how things work at scale.
 
 ---
 
@@ -207,8 +184,14 @@ I believe in:
 <!--
   Setup notes (delete this comment once you're done):
 
-  1. Live stats / trophies / activity graph work immediately — they just read
-     your public GitHub username, nothing to configure.
+  1. Streak stats / activity graph work immediately — they just read your
+     public GitHub username, nothing to configure. The GitHub stats card,
+     top-languages card, and trophy card were removed because the shared
+     public demo deployments behind github-readme-stats.vercel.app and
+     github-profile-trophy.vercel.app are currently paused/disabled
+     upstream (not something wrong on your end). Re-add them once those
+     services are back, or self-host your own instance for a permanent
+     fix: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
 
   2. The snake animation needs a one-time setup: keep
      .github/workflows/snake.yml in this repo, go to the Actions tab and
@@ -219,7 +202,4 @@ I believe in:
   3. The "Let's Connect" section has no social badges yet — add LinkedIn,
      email, Instagram, Twitter/X, or whatever links you want people to find
      you at, once you're ready to share them.
-
-  4. Pin cards under "Projects I'm Proud Of" pull live star/fork/language
-     data from those four repos — make sure they're public.
 -->
