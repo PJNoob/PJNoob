@@ -1,11 +1,3 @@
-```
- ___    _   __   ____  ___  ____  __  
-| _ \  | | / /  / __ \/ _ \/ __ )/ /__
-| |_) | |   /   / /_/ / /_/ (_ >/  __/
-|  __/  | |\ \  / _, _/\__, /\__ \/ /__ 
-|_|     |_| \_\/_/ |_|/____/____/\___/  🚀
-```
-
 <div align="center">
 
 # 👋 Hey! I'm PJNoob
@@ -122,29 +114,6 @@ Understanding the big picture of how things work at scale.
 - 🔐 **Blockchain & Web3** - The future of internet?
 - 🧪 **New Tools & Frameworks** - Whatever's cool
 - 🎓 **Everything Else** - Life's too short to stay in one lane
-
----
-
-## 📊 My GitHub Vibe
-
-<div align="center">
-
-### 📈 GitHub Stats
-<a href="https://github.com/PJNoob">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PJNoob&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="PJNoob's Stats"/>
-</a>
-
-### 💻 Top Languages
-<a href="https://github.com/PJNoob">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PJNoob&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
-</a>
-
-### 🔥 GitHub Streak
-<a href="https://github.com/PJNoob">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PJNoob&theme=tokyonight" alt="GitHub Streak"/>
-</a>
-
-</div>
 
 ---
 
