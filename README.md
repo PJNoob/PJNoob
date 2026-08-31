@@ -1,14 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:FFD700,100:00D4FF&height=280&section=header&text=Hey,%20I'm%20PJNoob%20👋&fontSize=48&fontColor=1a1a2e&animation=fadeIn&desc=Curious%20Explorer%20|%20Lifelong%20Learner%20|%20Code%20Tinkerer%20|%20Idea%20Enthusiast&descAlign=50&descAlignY=75&descSize=18" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:FFD700,100:00D4FF&height=280&section=header&text=Hey,%20I'm%20PJNoob%20👋&fontSize=48&fontColor=1a1a2e&animation=fade[...]
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=560&lines=Exploring+the+infinite;Learning+something+new+daily;Building+weird+and+wonderful+things;Breaking+things+to+understand+them;Forever+curious+%F0%9F%94%AD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=560&lines=Exploring+the+infinite;Learning+something+n[...]
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=PJNoob&label=Profile%20Views&color=ff6b9d&style=for-the-badge" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/PJNoob?label=Followers&style=for-the-badge&color=ffd700&logo=github&logoColor=white" alt="Followers"/>
 <img src="https://img.shields.io/badge/Status-Currently%20Curious-00D4FF?style=for-the-badge" alt="Status"/>
 
@@ -20,7 +19,7 @@
 
 <img align="right" src="https://media.giphy.com/media/xT9IgEx8SbQ0teblWc/giphy.gif" width="260" alt="Curious Explorer">
 
-**I'm someone who gets genuinely excited about learning.** Whether it's code, design, psychology, space facts, or how to make the perfect cup of coffee ☕ — I'm here for it all. I love creating things, breaking things, fixing things, and asking *"but what if...?"* way too often.
+**I'm someone who gets genuinely excited about learning.** Whether it's code, design, psychology, space facts, or how to make the perfect cup of coffee ☕ — I'm here for it all. I love creating[...]
 
 Not just a tech person, but a **curious mind** who believes the best ideas come from connecting dots across different worlds.
 
@@ -70,7 +69,7 @@ Not just a tech person, but a **curious mind** who believes the best ideas come 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PJNoob&hide_border=true&bg_color=1a1a2e&color=FF6B9D&line=00D4FF&point=FFD700&area=true&area_color=FF6B9D" width="80%" alt="Activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PJNoob&hide_border=true&bg_color=1a1a2e&color=FF6B9D&line=00D4FF&point=FFD700&area=true&area_color=FF6B9D" width="80%" alt=[...]
 
 </div>
 
@@ -83,28 +82,6 @@ Not just a tech person, but a **curious mind** who believes the best ideas come 
 </picture>
 
 <sub>👆 A snake, eating my contribution graph. Set up automatically by <code>.github/workflows/snake.yml</code> — see the note at the bottom.</sub>
-
-</div>
-
----
-
-## 🎪 Random Fun Facts About Me
-
-<div align="center">
-
-<details>
-<summary><b>🧠 Click to reveal — how my brain actually works</b></summary>
-<br/>
-
-|  |  |
-|---|---|
-| 🧠 **How I Learn** | Fast, curious, ask a million questions |
-| 🎯 **What I Love** | Solving puzzles, any kind |
-| 🔍 **My Superpower** | Connecting unrelated ideas |
-| ⚡ **Energy Level** | Permanently at 11/10 when excited |
-| 🌈 **My Vibe** | Casual, weird, wonderfully curious |
-
-</details>
 
 </div>
 
