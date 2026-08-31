@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:FFD700,100:00D4FF&height=280&section=header&text=Hey,%20I'm%20PJNoob%20👋&fontSize=48&fontColor=1a1a2e&animation=fade[...]
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:FFD700,100:00D4FF&height=280&section=header&text=Hey,%20I'm%20PJNoob%20👋&fontSize=48&fontColor=1a1a2e&animation=fadeIn&desc=Curious%20Explorer%20|%20Lifelong%20Learner%20|%20Code%20Tinkerer%20|%20Idea%20Enthusiast&descAlign=50&descAlignY=75&descSize=18" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=560&lines=Exploring+the+infinite;Learning+something+n[...]
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=560&lines=Exploring+the+infinite;Learning+something+new+daily;Building+weird+and+wonderful+things;Breaking+things+to+understand+them;Forever+curious+%F0%9F%94%AD" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,7 +19,7 @@
 
 <img align="right" src="https://media.giphy.com/media/xT9IgEx8SbQ0teblWc/giphy.gif" width="260" alt="Curious Explorer">
 
-**I'm someone who gets genuinely excited about learning.** Whether it's code, design, psychology, space facts, or how to make the perfect cup of coffee ☕ — I'm here for it all. I love creating[...]
+**I'm someone who gets genuinely excited about learning.** Whether it's code, design, psychology, space facts, or how to make the perfect cup of coffee ☕ — I'm here for it all. I love creating things, breaking things, fixing things, and asking *"but what if...?"* way too often.
 
 Not just a tech person, but a **curious mind** who believes the best ideas come from connecting dots across different worlds.
 
@@ -62,16 +62,6 @@ Not just a tech person, but a **curious mind** who believes the best ideas come 
 </div>
 
 ---
-
-## 📊 Live From GitHub
-
-*This section updates itself — no copy-pasting required.*
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PJNoob&hide_border=true&bg_color=1a1a2e&color=FF6B9D&line=00D4FF&point=FFD700&area=true&area_color=FF6B9D" width="80%" alt=[...]
-
-</div>
 
 <div align="center">
 
@@ -150,17 +140,18 @@ I believe in:
 <!--
   Setup notes (delete this comment once you're done):
 
-  1. The activity graph works immediately — it just reads your public
-     GitHub username, nothing to configure. The GitHub stats card,
-     top-languages card, and trophy card were removed because the shared
-     public demo deployments behind github-readme-stats.vercel.app and
-     github-profile-trophy.vercel.app are currently paused/disabled
-     upstream (not something wrong on your end). The streak stats widget
-     was also removed — its shared demo (streak-stats.demolab.com) is
-     technically up but responds inconsistently slowly (observed 0.8s to
-     19s), which is often too slow for GitHub's image proxy to load in
-     time. Re-add any of these once the services are reliable again, or
-     self-host your own instance for a permanent fix:
+  1. The GitHub stats card, top-languages card, trophy card, and activity
+     graph were all removed because their shared public demo deployments
+     (github-readme-stats.vercel.app, github-profile-trophy.vercel.app,
+     github-readme-activity-graph.vercel.app) are currently
+     paused/disabled upstream (not something wrong on your end — the
+     activity graph now returns HTTP 402 "DEPLOYMENT_DISABLED"). The
+     streak stats widget was also removed — its shared demo
+     (streak-stats.demolab.com) is technically up but responds
+     inconsistently slowly (observed 0.8s to 19s), which is often too
+     slow for GitHub's image proxy to load in time. Re-add any of these
+     once the services are reliable again, or self-host your own
+     instance for a permanent fix:
      https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
 
   2. The snake animation needs a one-time setup: keep
