@@ -17,7 +17,7 @@
 
 ## ✨ Who is PJNoob?
 
-<img align="right" src="https://media.giphy.com/media/xT9IgEx8SbQ0teblWc/giphy.gif" width="260" alt="Curious Explorer">
+<img align="right" src="./assets/curious-explorer.svg" width="260" alt="Curious Explorer">
 
 **I'm someone who gets genuinely excited about learning.** Whether it's code, design, psychology, space facts, or how to make the perfect cup of coffee ☕ — I'm here for it all. I love creating things, breaking things, fixing things, and asking *"but what if...?"* way too often.
 

@@ -199,3 +199,12 @@ test("does not contain unresolved merge conflict markers", () => {
   assert.doesNotMatch(README, /^={7}$/m);
   assert.doesNotMatch(README, /^>{7} /m);
 });
+test("'Who is PJNoob?' illustration is self-hosted and the file exists", () => {
+  // The previous Giphy hotlink (xT9IgEx8SbQ0teblWc) was removed by Giphy and
+  // rendered as a "This content is not available" placeholder.
+  assert.doesNotMatch(README, /media\.giphy\.com\/media\/xT9IgEx8SbQ0teblWc/);
+  assert.match(README, /src="\.\/assets\/curious-explorer\.svg"/);
+  assert.ok(
+    fs.existsSync(path.join(__dirname, "..", "assets", "curious-explorer.svg"))
+  );
+});
