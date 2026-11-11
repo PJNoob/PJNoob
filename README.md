@@ -129,7 +129,7 @@ I believe in:
 
 ### ⭐ If you vibe with what you see, hit that star! ⭐
 
-<img src="https://media.giphy.com/media/26u6EwBTQq1j5LSI0/giphy.gif" width="180" alt="Cool vibes">
+<img src="./assets/cool-vibes.svg" width="180" alt="Cool vibes">
 
 **Made with ❤️ and curiosity** · *Always exploring, always growing* 🌱
 

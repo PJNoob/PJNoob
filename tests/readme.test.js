@@ -208,3 +208,13 @@ test("'Who is PJNoob?' illustration is self-hosted and the file exists", () => {
     fs.existsSync(path.join(__dirname, "..", "assets", "curious-explorer.svg"))
   );
 });
+
+test("footer 'Cool vibes' illustration is self-hosted and the file exists", () => {
+  // The previous Giphy hotlink (26u6EwBTQq1j5LSI0) was removed by Giphy and
+  // rendered as a "This content is not available" placeholder.
+  assert.doesNotMatch(README, /media\.giphy\.com\/media\/26u6EwBTQq1j5LSI0/);
+  assert.match(README, /src="\.\/assets\/cool-vibes\.svg"/);
+  assert.ok(
+    fs.existsSync(path.join(__dirname, "..", "assets", "cool-vibes.svg"))
+  );
+});
